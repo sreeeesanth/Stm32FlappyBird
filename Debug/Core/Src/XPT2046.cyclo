@@ -1,0 +1,6 @@
+../Core/Src/XPT2046.c:38:13:_spi_init	2
+../Core/Src/XPT2046.c:55:13:XPT2046_TouchSelect	1
+../Core/Src/XPT2046.c:60:13:XPT2046_TouchUnselect	1
+../Core/Src/XPT2046.c:65:13:XPT2046_getTouchState	3
+../Core/Src/XPT2046.c:80:6:XPT2046_init	1
+../Core/Src/XPT2046.c:88:9:XPT2046_getTouch	17
